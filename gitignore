@@ -1,8 +1,0 @@
-chroma_db_multi/
-pdf_hashes.json
-data/
-__pycache__/
-*.pyc
-*.pyo
-.env
-.DS_Store
