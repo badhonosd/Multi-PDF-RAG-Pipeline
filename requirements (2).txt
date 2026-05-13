@@ -1,9 +1,0 @@
-pdfplumber
-chromadb
-rank_bm25
-sentence-transformers
-transformers
-accelerate
-bitsandbytes
-torch
-numpy
